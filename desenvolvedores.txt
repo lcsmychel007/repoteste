@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Lucas Myche
-=======
-Gustavo da Silva
->>>>>>> 4ecc931cb73ed13c62c3cf39f778fc971c23b7f0
+
+Lucas Mychel
